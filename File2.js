@@ -1,1 +1,2 @@
-Not Ignored. You're safe!
+Not Ignored. You're safe! Keep cool
+
